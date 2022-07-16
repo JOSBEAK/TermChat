@@ -1,0 +1,11 @@
+/home/josbeak/Desktop/RustyChat/target/debug/deps/unicode_segmentation-579caf801d2f041c.rmeta: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/grapheme.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/tables.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/word.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/sentence.rs
+
+/home/josbeak/Desktop/RustyChat/target/debug/deps/libunicode_segmentation-579caf801d2f041c.rlib: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/grapheme.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/tables.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/word.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/sentence.rs
+
+/home/josbeak/Desktop/RustyChat/target/debug/deps/unicode_segmentation-579caf801d2f041c.d: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/grapheme.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/tables.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/word.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/sentence.rs
+
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/lib.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/grapheme.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/tables.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/word.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.3.0/src/sentence.rs:

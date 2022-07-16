@@ -1,0 +1,11 @@
+/home/josbeak/Desktop/RustyChat/target/debug/deps/serde_urlencoded-8198cb4d18efe7ea.rmeta: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/home/josbeak/Desktop/RustyChat/target/debug/deps/serde_urlencoded-8198cb4d18efe7ea.d: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs:

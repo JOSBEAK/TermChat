@@ -1,0 +1,13 @@
+/home/josbeak/Desktop/RustyChat/target/debug/deps/memchr-fbfe4cd0a5caa896.rmeta: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/josbeak/Desktop/RustyChat/target/debug/deps/libmemchr-fbfe4cd0a5caa896.rlib: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/josbeak/Desktop/RustyChat/target/debug/deps/memchr-fbfe4cd0a5caa896.d: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs
+
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/lib.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/fallback.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/iter.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/naive.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/mod.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/avx.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.0/src/x86/sse2.rs:

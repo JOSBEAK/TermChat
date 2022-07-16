@@ -1,0 +1,12 @@
+/home/josbeak/Desktop/RustyChat/target/debug/deps/backtrace-e15cc66a7443ce36.rmeta: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/backtrace/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/dladdr.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/types.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/backtrace/libunwind.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/libbacktrace.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/capture.rs
+
+/home/josbeak/Desktop/RustyChat/target/debug/deps/backtrace-e15cc66a7443ce36.d: /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/lib.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/backtrace/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/mod.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/dladdr.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/types.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/backtrace/libunwind.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/libbacktrace.rs /home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/capture.rs
+
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/lib.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/backtrace/mod.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/mod.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/dladdr.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/types.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/backtrace/libunwind.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/symbolize/libbacktrace.rs:
+/home/josbeak/.cargo/registry/src/github.com-1ecc6299db9ec823/backtrace-0.3.32/src/capture.rs:
